@@ -38,3 +38,12 @@ body{
     max-width: 100%;
     border-radius: 10px  0px 10px 0px;
 }
+.card-text{
+    display: flex;
+    flex-direction: column;
+}
+.card-text span{
+    color: var(--Dark-grayish-blue);
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
